@@ -1,0 +1,23 @@
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\bin\Release\Newland SDK Sample.exe.config
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\bin\Release\Newland SDK Sample.exe
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\bin\Release\Newland SDK Sample.pdb
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\bin\Release\Newland SDK Sample.xml
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\obj\Release\Newland_SDK_Sample.Resources.resources
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\obj\Release\Newland SDK Sample.vbproj.GenerateResource.Cache
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\obj\Release\Newland SDK Sample.exe
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\obj\Release\Newland SDK Sample.xml
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\obj\Release\Newland SDK Sample.pdb
+C:\Data\Development\Projects 2015\Private\Newland SDK sample\obj\Release\Newland_SDK_Sample.frmMain.resources
+C:\Data\Development\Projects 2022\Newland SDK Sample\bin\Release\Newland SDK Sample.exe.config
+C:\Data\Development\Projects 2022\Newland SDK Sample\bin\Release\Newland SDK Sample.exe
+C:\Data\Development\Projects 2022\Newland SDK Sample\bin\Release\Newland SDK Sample.pdb
+C:\Data\Development\Projects 2022\Newland SDK Sample\bin\Release\Newland SDK Sample.xml
+C:\Data\Development\Projects 2022\Newland SDK Sample\obj\Release\Newland SDK Sample.vbproj.AssemblyReference.cache
+C:\Data\Development\Projects 2022\Newland SDK Sample\obj\Release\Newland SDK Sample.vbproj.SuggestedBindingRedirects.cache
+C:\Data\Development\Projects 2022\Newland SDK Sample\obj\Release\Newland_SDK_Sample.frmMain.resources
+C:\Data\Development\Projects 2022\Newland SDK Sample\obj\Release\Newland_SDK_Sample.Resources.resources
+C:\Data\Development\Projects 2022\Newland SDK Sample\obj\Release\Newland SDK Sample.vbproj.GenerateResource.cache
+C:\Data\Development\Projects 2022\Newland SDK Sample\obj\Release\Newland SDK Sample.vbproj.CoreCompileInputs.cache
+C:\Data\Development\Projects 2022\Newland SDK Sample\obj\Release\Newland SDK Sample.exe
+C:\Data\Development\Projects 2022\Newland SDK Sample\obj\Release\Newland SDK Sample.xml
+C:\Data\Development\Projects 2022\Newland SDK Sample\obj\Release\Newland SDK Sample.pdb
